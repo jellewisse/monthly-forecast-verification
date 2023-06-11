@@ -9,3 +9,6 @@ conda activate energy39
 
 ## add environment to jupyter notebook
 python -m ipykernel install --user --name=energy39
+
+## installing cdsapi for downloading SEAS5 forecast
+https://cds.climate.copernicus.eu/api-how-to
