@@ -1,4 +1,4 @@
-# energy
+# monthly forecast
 
 ## setup python environment
 conda env create -f environment.yml
