@@ -227,4 +227,3 @@ dependencies:
     - click-plugins==1.1.1
     - cligj==0.7.2
     - fiona==1.9.4.post1
-prefix: /opt/homebrew/Caskroom/miniconda/base/envs/energy39
